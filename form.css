@@ -1,0 +1,33 @@
+.name-label{
+    display:block;
+    margin-left: 10px;
+}
+.email-label,
+.age-label{
+    display:block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.outer-container{
+    background-color: forestgreen;
+    display: inline-block;
+}
+.form-container{
+    background-color:white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: -16px	
+}
+.header{
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.name-input,
+.email-input,
+.age-input,
+.which,
+.choose,
+.would{
+    margin-left: 10px;
+    width: 90%;
+}
